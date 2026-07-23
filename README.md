@@ -1,4 +1,4 @@
-# UEFI Firmware for Samsung with QCOM devices
+# UEFI Firmware for Samsung with Qualcomm Snapdragon Processor
 
 ## Status
 WORK IN PROGRESS
